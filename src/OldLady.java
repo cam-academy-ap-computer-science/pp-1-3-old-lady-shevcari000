@@ -1,4 +1,16 @@
-
+/****
+ * Grading comments:
+ *  Nice work.   The output was perfect, and you got rid of
+ *  a little bit of duplication by the 'Space()' method, but
+ *  I think you missed a bit of the point - in that the goal
+ *  is to reduce the amount of typing you do by nesting the
+ *  methods, and re-using the lines.  
+ *  Compiles and works but misses the point:  14/15
+ *  Output:  6/6 - really clean.
+ *  Economy: 0/2 - Space(), but not alot of reduction of effort
+ *  Consistency: 2/2  - remember to indent your last bracket. 
+ *   You can get rid of the // TODO Auto-generated stub...
+ */
 public class OldLady {
 
 	public static void main(String[] args) {
